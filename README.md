@@ -22,7 +22,7 @@ cd poe2-trade-helper-linux
 pip install -r requirements.txt
 ```
 
-5. Edit the config.json file to change your colormaps and, if needed, correct your Client.txt logfiles path.
+5. Edit the config.json file to change your colormaps and change the YOURUSERNAME in the Client.txt filepath setting.
 
 6. Run the Application using Python.
 ```
