@@ -8,7 +8,7 @@ I just vibecoded this to be honest. It simply looks at the Client.txt logfile an
 # Screenshot
 ![screenshot](https://github.com/user-attachments/assets/a42e9f74-b199-431f-8112-b28f521346a1)
 
-# Installation
+# Manual Installation of python script
 1. Clone the github repo to a location you want.
 ```
 git clone https://github.com/RandomLegend/poe2-trade-helper-linux
@@ -22,9 +22,7 @@ cd poe2-trade-helper-linux
 pip install -r requirements.txt
 ```
 
-5. Edit the config.json file to change your colormaps and change the YOURUSERNAME in the Client.txt filepath setting.
-
-6. Run the Application using Python.
+5. Run the Application using Python.
 ```
-python3 poe.py
+python3 poe-trade-notifier.py
 ```
