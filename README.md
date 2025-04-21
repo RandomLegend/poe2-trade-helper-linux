@@ -33,3 +33,9 @@ pip install -r requirements.txt
 ```
 python3 poe-trade-notifier.py
 ```
+# Configuration
+In the the Settings menu you have to locate your Client.txt path. This is usually in:
+/home/YOURUSERNAME/.local/share/Steam/steamapps/common/Path of Exile 2/logs/Client.txt
+
+After that you can add rows for your colormappings of the prices.
+The "price" column include the amount AND currency name. For example: 10 exalted or 2 divine and the color column can be doubleclicked to open a colorpicker.
